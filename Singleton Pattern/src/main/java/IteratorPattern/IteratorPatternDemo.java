@@ -1,4 +1,4 @@
-package FactoryPattern.IteratorPattern;
+package IteratorPattern;
 
 public class IteratorPatternDemo {
     public static void main(String[] args) {
